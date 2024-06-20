@@ -26,6 +26,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install -r docs.requirements.txt
-      - run: mkdocs gh-deploy --force --site-dir docs
+      - run: mkdocs gh-deploy --force --config-file docs/mkdocs.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
