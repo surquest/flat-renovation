@@ -6,6 +6,3 @@ mkdocs-minify-plugin==0.6.2
 mkdocs-redirects==1.2.0
 pymdown-extensions>=9.9.2
 mkdocs-pdf==0.1.2
-
-surquest-utils-config-formatter>=0.0.1rc4
-surquest-GCP-bq-grid>=0.0.1rc4
