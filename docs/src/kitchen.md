@@ -1,6 +1,6 @@
 # Kuchyně
 
-Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu** a několika **prvky dřevěného děkoru**. Pracovní deska kuchyňské linky je z **umělého kamene** či jiného odolného povrchu proti teplu. Kuchyská linka je složena ze 3 komponent:
+Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu** a několika **prvky dřevěného děkoru**. Pracovní deska kuchyňské linky je z **umělého kamene** či jiného odolného povrchu proti teplu ve vzoru s imitací mramoru. Kuchyská linka je složena ze 3 komponent:
 
 * Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlnná trouba) a skříní na suché potraviny. (přibližně delka 2.48m, výška 2.4m, hloubka 0.65m)
 * Stěna s dřezem, myčkou nádobí, odpadkovým košem a skříněmi na nádobí. (delka 3.6m, výška 2.4m, hloubka 0.65m)
@@ -42,7 +42,7 @@ Ostrůvek je složen z následujících prvků:
 - Velká skříňka na nádobí (100 cm) 
 - 2x Malá skříňka na nádobí (40 cm)
 - 2x Střední skříňka (60 cm)
-- Prostor na mini chladničku na víno/pivo
+- Prostor na mini chladničku na víno/pivo (výška 75 cm x šířka 60 cm)
 - Dřevěná barová deska
 
 ![Stěna dřez](./static/drawings/kitchen.island.drawio)
