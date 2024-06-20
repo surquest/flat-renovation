@@ -61,7 +61,7 @@ Kuchyňská linka je vybavena následujícími vestavěnými spotřebičy:
 
 ## Vizuální inspirace
 
-Následující obrázek zobrazuje vizuální inspiraci pro kuchyňskou linku.
+Následující obrazky slouží jako inspirace pro design kuchyně.
 
 ![Kitchen main](./static/img/kitchen/kitchen.main.jpg)
 ![Kitchen side](./static/img/kitchen/kitchen.side.jpg)
