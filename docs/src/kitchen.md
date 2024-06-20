@@ -1,13 +1,72 @@
 # Kuchyně
 
-Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu** a několika **prvky dřevěného děkoru**. Pracovní deska kuchyňské linky je z **umělého kamene**. Kuchyňská linka je vybavena následujícími vestavěnými spotřebičy:
+Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu** a několika **prvky dřevěného děkoru**. Pracovní deska kuchyňské linky je z **umělého kamene** či jiného odolného povrchu proti teplu. Kuchyská linka je složena ze 3 komponent:
 
-- **Indukční varná deska**
+* Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlnná trouba) a skříní na suché potraviny. (delka 2.484m, výška 2.4m, hloubka 0.6m)
+* Stěna s dřezem, myčkou nádobí, odpadkovým košem a skříněmi na nádobí. (delka 3.6m, výška 2.4m, hloubka 0.6m)
+* Ostrůvek s indukční varnou deskou, skříněmi na nádobí, barovou deskou a vestavěnou chladničkou.  (delka 1.8m, výška 0.90m, hloubka 1.2m)
+
+Rozložení kuchyňské linky je zobrazeno na následujícím obrázku. Tvary označené modře vyžadují přívod vody a napojení na odpad, červené tvary vyžadují přívod elektřiny, žluté tvary značí uložný prostor.
+
+![Kuchyňská linka](./static/drawings/floor-plan.furniched.drawio)
+
+## Stěna se spotřebiči
+
+Stěna se spotřebiči je složena z následujících prvků:
+
+- Modul s lednicí
+- Modul s mrazákem
+- Modul s troubou a mikrovlnnou troubou
+- Skříň na suché potraviny
+
+![Stěna spotřebiče](./static/drawings/kitchen.wall-appliances.drawio)
+
+## Stěna s dřezem a myčkou nádobí
+
+Stěna s dřezem a myčkou nádobí je složena z následujících prvků:
+
+- Spodní skříňka na nádobí (60 cm)
+- Myčka na nádobí (60 cm)
+- Dřez s odpadkovými koši (1x směsný odpad, 1x kovový odpad, 1x sklo) (90 cm)
+- Skříňka s odpadkovým koši (1x plastový odpad, 1x papír) (60 cm)
+- Spodní skříňka na nádobí (60 cm)
+- Skříňka na nádobí (30 cm)
+
+![Stěna dřez](./static/drawings/kitchen.wall-watter.drawio)
+
+## Ostrůvek
+
+Ostrůvek je složen z následujících prvků:
+
+- Indukční varná deska
+- Velká skříňka na nádobí (100 cm) 
+- 2x Malá skříňka na nádobí (40 cm)
+- 2x Střední skříňka (60 cm)
+- Prostor na mini chladničku na víno/pivo
+- Dřevěná barová deska
+
+![Stěna dřez](./static/drawings/kitchen.island.drawio)
+
+## Vybavení / spotřebiče
+
+Kuchyňská linka je vybavena následujícími vestavěnými spotřebičy:
+
+- [Indukční varná deska](https://www.alza.cz/siemens-ex875hvc1e-d7992065.htm)
 - **Trouba**
 - **Mikrovlnná trouba**
 - **Myčka nádobí**
-- **Lednice**
+- [Lednice](https://www.alza.cz/siemens-ki41radd1-d7760112.htm)
 - **Mrazák**
 - **Malá chladnička v ostrůvku na víno/pivo**
 
-![Kuchyňská linka](./static/drawings/floor-plan.furniched.drawio)
+## Vizuální inspirace
+
+Následující obrázek zobrazuje vizuální inspiraci pro kuchyňskou linku.
+
+![Kitchen main](./static/img/kitchen/kitchen.main.jpg)
+![Kitchen side](./static/img/kitchen/kitchen.side.jpg)
+![Kitchen front](./static/img/kitchen/kitchen.front.jpg)
+
+
+
+

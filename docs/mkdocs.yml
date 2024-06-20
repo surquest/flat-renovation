@@ -9,6 +9,7 @@ theme:
   features:
     - content.code.annotate
 plugins:
+    - glightbox
     - drawio_file
     - search
     - mkdocs-pdf
