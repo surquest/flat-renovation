@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Drawio
+*.drawio.bkp
+
+# Mkdocs site
+docs/site/
+
 # Distribution / packaging
 .Python
 build/
