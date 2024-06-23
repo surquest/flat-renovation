@@ -67,6 +67,8 @@ Následující obrazky slouží jako inspirace pro design kuchyně.
 ![Kitchen side](../static/img/kitchen/kitchen.side.jpg){ width="45%" }
 ![Kitchen front](../static/img/kitchen/kitchen.front.jpg){ width="45%" }
 ![Kitchen table](../static/img/kitchen/kitchen.table.jpg){ width="45%" }
+![Kitchen alt main](../static/img/kitchen/kitchen.alt.jpg){ width="45%" }
+![Kitchen alt side](../static/img/kitchen/kitchen.alt.side.jpg){ width="45%" }
 
 
 
