@@ -58,6 +58,12 @@ V rámci instalatérských prací je třeba provést následující:
 * přivedení vody pro sprchu u záchodů v obou koupelnách
 
 
-## Obklady a dlažby
+## Obklady, dlažby, podlahy
 
 * obklady a dlažby v obou koupelnách
+* pokládka vinylové podlahy v celém bytě
+
+## Malířské práce
+
+* malování stěn v celém bytě
+* malování stropů v celém bytě
