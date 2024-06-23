@@ -1,0 +1,30 @@
+﻿Pokoj,Položka,Priorita,Produkt,Cena,Odkaz,,,,,,,,,Row Labels,Sum of Cena
+Kuchyně,Lednice,MUST,SIEMENS KI41RADD1 iQ500,18690,https://www.alza.cz/siemens-ki41radd1-d7760112.htm,,,,,,,,,Kuchyně,706550
+Kuchyně,Mrazák,MUST,AEG 7000 NoFrost ABE818E6NC,21990,https://www.alza.cz/aeg-7000-nofrost-abe818e6nc-d9934340.htm,,,,,,,,,(blank),
+Kuchyně,Indukční varná deska,MUST,"SIEMENS EX875HVC1E iQ700
+",23990,https://www.alza.cz/siemens-ex875hvc1e-d7992065.htm,,,,,,,,,Obývací pokoj,122970
+Kuchyně,Myčka,MUST,BOSCH SBV6YCX02E Serie 6,27990,https://www.alza.cz/bosch-sbv6ycx02e-d8571790.htm,,,,,,,,,Byt,1269000
+Kuchyně,Trouba,MUST,"SIEMENS HM736GAB1 iQ700
+",38890,https://www.alza.cz/siemens-hm736gab1-d8008633.htm,,,,,,,,,Koupelna malá,131460
+Kuchyně,Chladnička na víno,NICE TO HAVE,,25000,,,,,,,,,,Koupelna velká,105391
+Kuchyně,Kuchyňská linka,MUST,,550000,,,,,,,,,,Grand Total,2335371
+Obývací pokoj,Parní krb,NICE TO HAVE,Parní krb 1500 3D hloubka 300mm 1 barva,77970,https://design-biokrby.cz/parni-krb-1500-3d-hloubka-300mm-1-barva/p-7,,,,,,,,,,
+Obývací pokoj,Sedací souprava,MUST,,45000,,,,,,,,,,,
+Byt,Klimatizace,MUST,,165000,,,,,,,,,,,
+Byt,Podlahy,MUST,,224000,,,,,,,,,,,
+Byt,Okna,MUST,,350000,,,,,,,,,,,
+Byt,Dveře,MUST,,80000,,,,,,,,,,,
+Byt,Stavební upravy,MUST,,450000,,,,,,,,,,,
+Koupelna malá,Umyvadlo,MUST,,25000,,,,,,,,,,,
+Koupelna malá,Záchod,MUST,,10000,,,,,,,,,,,
+Koupelna malá,Sprchová zástěna,MUST,Sprchové dveře 120 cm SAT T-Linea SIKOTLDNEW120L,12490,https://www.siko.cz/sprchove-dvere-120-cm-sat-t-linea-sikotldnew120l/p/SIKOTLDNEW120L,,,,,,,,,,
+Koupelna malá,Sprchová vanička,MUST,Sprchová vanička obdélníková SAT Fusion 120x90 cm litý mramor Blanco SATFU12090BL,9990,https://www.siko.cz/sprchova-vanicka-obdelnikova-sat-fusion-120x90-cm-lity-mramor-blanco-satfu12090bl/p/SATFU12090BL,,,,,,,,,,
+Koupelna malá,Obklady,MUST,Dlažba Peronda Praline 60x120 cm mat PRALINE612NT,28980,https://www.siko.cz/dlazba-peronda-praline-60x120-cm-mat-praline612nt/p/PRALINE612NT,,,,,,,,,,
+Koupelna malá,Dlažba,MUST,Dlažba Peronda Praline 60x120 cm mat PRALINE612NT,15000,https://www.siko.cz/dlazba-peronda-praline-60x120-cm-mat-praline612nt/p/PRALINE612NT,,,,,,,,,,
+Koupelna malá,Dlažba,MUST,Baterie,15000,,,,,,,,,,,
+Koupelna velká,Umyvadlo,MUST,,25000,,,,,,,,,,,
+Koupelna velká,Záchod,MUST,,10000,,,,,,,,,,,
+Koupelna velká,Vana,MUST,Obdélníková vana Villeroy & Boch Oberon 170x75 cm litý mramor UBQ170OBE2V-01,15391,https://www.siko.cz/obdelnikova-vana-villeroy-boch-oberon-170x75-cm-lity-mramor-ubq170obe2v-01/p/BQ170OBE2V-01,,,,,,,,,,
+Koupelna velká,Obklady,MUST,,40000,,,,,,,,,,,
+Koupelna velká,Dlažba,MUST,,15000,,,,,,,,,,,
+Koupelna malá,Dlažba,MUST,Baterie,15000,,,,,,,,,,,

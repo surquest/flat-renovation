@@ -3,11 +3,17 @@ repo_url: https://github.com/surquest/flat-renovation
 docs_dir: src
 nav:
   - Úvod: index.md
-  - Kuchyně: kitchen.md
+  - Pokoje:
+    - Kuchyně: rooms/kitchen.md
+    - Obývací pokoj: rooms/living-room.md
+    - Koupelna malá: rooms/bathroom-small.md
+    - Koupelna velká: rooms/bathroom-big.md
+  - Stavební práce: construction.md
+
 theme:
   name: material
   features:
-    - content.code.annotate
+    - content.tooltips
 plugins:
     - glightbox
     - drawio_file
@@ -17,9 +23,10 @@ plugins:
 markdown_extensions:
   - abbr
   - attr_list
+  - md_in_html
   - pymdownx.snippets:
       auto_append:
-        - "extras/glossary.md"
+        - extras/equipment.md
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
