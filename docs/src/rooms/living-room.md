@@ -6,7 +6,9 @@ Obývací pokoj je propojený s kuchyňským koutem a jídelním stolem. V obýv
 
 ## Vizuální inspirace
 
-Následující obrazky slouží jako inspirace pro design kuchyně.
+Následující obrazky slouží jako inspirace pro design obývací pokoj.
 
 ![Living room](../static/img/living-room/living-room.main.jpg){ width="45%" }
 ![Living room](../static/img/living-room/living-room.side.jpg){ width="45%" }
+![Living room](../static/img/living-room/living-room.all.jpg){ width="45%" }
+![Living room](../static/img/living-room/living-room.kitchen.jpg){ width="45%" }
