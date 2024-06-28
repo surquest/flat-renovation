@@ -8,6 +8,8 @@ nav:
     - Obývací pokoj: rooms/living-room.md
     - Koupelna malá: rooms/bathroom-small.md
     - Koupelna velká: rooms/bathroom-big.md
+    - Ložnice západ: rooms/bedroom-west.md
+    - Ložnice jih: rooms/bedroom-south.md
   - Stavební práce: construction.md
 
 theme:
