@@ -10,5 +10,5 @@ Následující obrazky slouží jako inspirace pro design obývací pokoj.
 
 ![Living room](../static/img/living-room/living-room.main.jpg){ width="45%" }
 ![Living room](../static/img/living-room/living-room.side.jpg){ width="45%" }
+![Living room](../static/img/living-room/living-room.side.alt.jpg){ width="45%" }
 ![Living room](../static/img/living-room/living-room.all.jpg){ width="45%" }
-![Living room](../static/img/living-room/living-room.kitchen.jpg){ width="45%" }

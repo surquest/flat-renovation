@@ -10,7 +10,8 @@ nav:
     - Koupelna velká: rooms/bathroom-big.md
     - Ložnice západ: rooms/bedroom-west.md
     - Ložnice jih: rooms/bedroom-south.md
-  - Stavební práce: construction.md
+    - Chodba: rooms/hall.md
+  - Rozsah stavebních prací: construction.md
 
 theme:
   name: material
