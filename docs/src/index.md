@@ -4,11 +4,11 @@
 
 ## Naše očekávání
 
-Výsledkem rekonstrukce bytu by měl být moderní a funkční prostor, který bude splňovat naše potřeby a přání. Výsledný design bytu by měl být v souladu s naším vkusem a preferencemi:
-
+Výsledkem rekonstrukce bytu by měl být funkční, minimalistický ale zároveň útulný prostor. Líbí se nám kombinace světlých neutrálních barev a tmavých prvků. Zkusili jsme podle toho navrhnout nový design viz specifikace bytu níže. Následující vizualizace jsou pouhou inspirací, na ničem netrváme, změny a odborné rady za účelem optimalizace nákladů uvítáme. 
+Celkové shrnutí rekonstrukce bytu:
 1.	Nová dispozice bytu, jejíž smyslem je umožnit v budoucnu teoretické rozdělení bytu na 2 samostatné části a příprava pro 90 cm dveře v celém bytě.
 2.	Nové podlahy v celém bytě: dlažba na chodbách a v koupelnách, vinyl ve zbytku bytu. Podlahové lišty - [velmi decentní a černé](https://www.vavex.cz/produkt/10850/stropni-a-podlahova-lista-200-x-2-x-2-cm-cx133-duropolymer-orac-decor/).
-3.	Podhledy na chodbě a v koupelnách s [distančním stínovém profilem (pokud možné)](https://allegro.cz/nabidka/stinovy-profil-distancni-vlozka-pro-strop-s-gk-10x25-13453300518). Ve zbytku bytu preferujeme strop bez lišt.
+3.	Podhledy na chodbách a v koupelnách s [distančním stínovém profilem (pokud možné)](https://allegro.cz/nabidka/stinovy-profil-distancni-vlozka-pro-strop-s-gk-10x25-13453300518). Ve zbytku bytu preferujeme strop bez lišt.
 4.	Nové vchodové dveře.
 5.	Nové interiérové dveře se skrytými nebo velmi decentními [zárubněmi](https://www.lasamba.cz/interierove-dvere-porta-hide-1-1-zaruben-p22410?utm_source=google&utm_medium=cpc&utm_campaign=gads_17629978795&utm_term=&gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgogRp6_CUioBuwZ1abmC3C6UXuU1TdZ7C8oYM2-eA6o3BujrU4-mALRoC3BcQAvD_BwE). 3 dveře, ke kterým je přistup z vstupní chodby, by měly mít zámek. 
 6.	Zrekonstruované koupelny s vestavěným nábytkem. 
