@@ -37,6 +37,7 @@ Potřebné změny v elektrických rozvodech se týkají:
 * příprava pro bodové osvětlení v koupelnách a chodbě
 * přivod elektříny k nové pozici pračky
 * nové pozice zásuvek v bytě
+* přívod elektřiny pro elektrické radiátory v koupelnách
 
 ## Instalaterské práce
 
