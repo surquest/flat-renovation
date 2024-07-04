@@ -35,7 +35,7 @@ Potřebné změny v elektrických rozvodech se týkají:
 * přivedení elektřiny v kuchyni pro mikrovlnnou troubu, lednici, mrazák a myčku
 * změna stropního osvětlení v kuchyni a obývacím pokoji
 * příprava pro bodové osvětlení v koupelnách a chodbě
-* přivod elektříny k nové pozici pračky
+* přivod elektříny k nové pozici pračky a sušičky
 * nové pozice zásuvek v bytě
 * přívod elektřiny pro elektrické radiátory v koupelnách
 
