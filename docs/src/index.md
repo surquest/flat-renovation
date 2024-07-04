@@ -5,6 +5,7 @@
 ## Naše očekávání
 
 Výsledkem rekonstrukce bytu by měl být funkční, minimalistický ale zároveň útulný prostor. Líbí se nám kombinace světlých neutrálních barev a tmavých prvků. Zkusili jsme podle toho navrhnout nový design viz specifikace bytu níže. Následující vizualizace jsou pouhou inspirací, na ničem netrváme, změny a odborné rady za účelem optimalizace nákladů uvítáme. 
+
 Celkové shrnutí rekonstrukce bytu:
 1.	Nová dispozice bytu, jejíž smyslem je umožnit v budoucnu teoretické rozdělení bytu na 2 samostatné části a příprava pro 90 cm dveře v celém bytě.
 2.	Nové podlahy v celém bytě: dlažba na chodbách a v koupelnách, vinyl ve zbytku bytu. Podlahové lišty - [velmi decentní a černé](https://www.vavex.cz/produkt/10850/stropni-a-podlahova-lista-200-x-2-x-2-cm-cx133-duropolymer-orac-decor/).
@@ -17,6 +18,7 @@ Celkové shrnutí rekonstrukce bytu:
 9.	Obývací stěna s TV a [parním krbem](https://design-biokrby.cz/parni-krb-1500-3d-hloubka-300mm-1-barva/p-7) a úložným prostorem hlavně pro umístění vodní nádržky pro krb. 
 10.	Vestavěná skříň s vnitřním osvětlením v ložnici.
 11.	Vestavěné skříně, botník a osvětlené zrcadlo na chodbě.
+12.	Vestavěné skříně a zdi obarvené do stejných odstínů, pokud to bude možné. V ložnici, malé koupelně a chodbě – světle běžová. Ve velké koupelně – světle šedá. Všechny povrchy – matné. 
 
 ### Specifikace bytu
 
