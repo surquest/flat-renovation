@@ -2,8 +2,8 @@
 
 Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu** a několika **prvky dřevěného děkoru**. Pracovní deska kuchyňské linky je z **umělého kamene** či jiného odolného povrchu proti teplu ve vzoru s imitací mramoru. Kuchyská linka je složena ze 3 komponent:
 
-* Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlnná trouba) a skříní na suché potraviny (přibližně délka cca 2.48m, výška 2.4m, hloubka 0.65m).
-* Stěna s dřezem, myčkou nádobí, odpadkovým košem a skříněmi na nádobí (přibližně délka cca 3.6m, výška 2.4m, hloubka 0.65m).
+* Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlnná trouba) a skříní na suché potraviny (přibližně délka cca 2.48m, výška 2.57m, hloubka 0.65m).
+* Stěna s dřezem, myčkou nádobí, odpadkovým košem a skříněmi na nádobí (přibližně délka cca 3.6m, výška 2.57m, hloubka 0.65m).
 * Ostrůvek s indukční varnou deskou, skříněmi na nádobí, barovou deskou a vestavěnou chladničkou (přibližná délka cca 1.8m, výška 0.90m nebo 0.92m, hloubka 1.2m).
 
 Rozložení kuchyňské linky je zobrazeno na následujícím obrázku. Tvary označené modře vyžadují přívod vody a napojení na odpad, červené tvary vyžadují přívod elektřiny, žluté tvary značí uložný prostor.

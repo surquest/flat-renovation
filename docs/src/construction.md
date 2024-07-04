@@ -22,7 +22,7 @@ Demoliční práce se týkají:
 
 Přáli bychom si, aby finální dispozice bytu vypadala následovně, přičemž zeleně jsou označeny nové příčky a dveře.
 
-![Nový půdorys](../static/img/future/floorplan.future.jpg)
+![Nový půdorys](../static/drawings/floor-plan.construction.drawio)
 
 Součásti změny dispozice bytu jsou i nové podhledy (s [distačním stínícím profilem](https://allegro.cz/nabidka/stinovy-profil-distancni-vlozka-pro-strop-s-gk-10x25-13453300518?dd_referrer=https%3A%2F%2Fwww.google.com%2F)) v celém bytě s přípravou pro osvětlení a budoucí záclony/závěsy.
 
