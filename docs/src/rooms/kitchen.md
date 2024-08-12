@@ -25,14 +25,13 @@ Stěna se spotřebiči je složena z následujících prvků:
 
 Stěna s dřezem a myčkou nádobí je složena z následujících prvků:
 
-- Spodní skříňka na nádobí (60 cm)
+- Spodní skříňka (60 cm)
 - Myčka na nádobí (60 cm)
 - Dřez s odpadkovými koši (1x směsný odpad, 1x kovový odpad, 1x sklo) (90 cm nebo 92 cm)
-    - [džez](https://eshop-franke.cz/jednodrezy-kulate-drezy/100964-kuchynsky-drez-franke-kubus-2-kng-110-62-matna-cerna-7612985906777.html)
+    - [dřez](https://eshop-franke.cz/jednodrezy-kulate-drezy/100964-kuchynsky-drez-franke-kubus-2-kng-110-62-matna-cerna-7612985906777.html)
     - [odkapávač](https://eshop-franke.cz/misky-do-drezu/26359-miska-franke-1120066060-pro-drezy-mrg-7612980052851.html)
-- Skříňka s odpadkovým koši (1x plastový odpad, 1x papír) (60 cm)
-- Spodní skříňka na nádobí (60 cm)
-- Skříňka na nádobí (30 cm) (Bublinkovač)
+- Skříňka na nádobí (30 cm) + šuplík na čistící prostředky (Bublinkovač)
+- 2x velká skříň (viz schéma)
 
 ![Stěna dřez](../static/drawings/kitchen.wall-watter.drawio)
 
@@ -44,7 +43,6 @@ Ostrůvek je složen z následujících prvků:
 - Velká skříňka na nádobí (100 cm) 
 - 2x Malá skříňka na nádobí (40 cm)
 - 2x Střední skříňka (60 cm)
-- Prostor na mini chladničku na víno/pivo (výška 75 cm x šířka 60 cm)
 - Dřevěná barová deska
 
 ![Stěna dřez](../static/drawings/kitchen.island.drawio)
@@ -59,7 +57,6 @@ Kuchyňská linka je vybavena následujícími vestavěnými spotřebičy:
 - [Lednice](https://www.alza.cz/aeg-mastery-ske818d1ds-d6703364.htm)
 - [Mrazák](https://www.alza.cz/vestfrost-vr-bf27912h1s-d6497732.htm)
 - [Malá chladnička v ostrůvku na víno/pivo](https://www.alza.cz/haier-hws49ga-d5889133.htm)
--
 
 ## Vizuální inspirace
 
