@@ -30,8 +30,7 @@ Součásti změny dispozice bytu jsou i nové podhledy (s [distačním stíníc�
 
 Potřebné změny v elektrických rozvodech se týkají:
 
-* přivedení nových rozvodů k oknům pro předokenní žaluzie
-* přivedení elektřiny k ostrůvku v kuchyni pro sporák a mini lednici
+* přivedení elektřiny k ostrůvku v kuchyni pro sporák a zásuvky
 * přivedení elektřiny v kuchyni pro mikrovlnnou troubu, lednici, mrazák a myčku
 * změna stropního osvětlení v kuchyni a obývacím pokoji
 * příprava pro bodové osvětlení v koupelnách a chodbě
