@@ -56,7 +56,7 @@ Kuchyňská linka je vybavena následujícími vestavěnými spotřebičy:
 - [Myčka nádobí](https://www.alza.cz/bosch-smv8ycx03e-d6751313.htm)
 - [Lednice](https://www.alza.cz/aeg-mastery-ske818d1ds-d6703364.htm)
 - [Mrazák](https://www.alza.cz/vestfrost-vr-bf27912h1s-d6497732.htm)
-- [Malá chladnička v ostrůvku na víno/pivo](https://www.alza.cz/haier-hws49ga-d5889133.htm)
+- Malá chladnička pod troubou
 
 ## Vizuální inspirace
 
