@@ -55,6 +55,20 @@ V rámci instalatérských prací je třeba provést následující:
 * obklady a dlažby v obou koupelnách
 * pokládka vinylové podlahy v celém bytě
 
+### Vinylová podlaha
+
+Vybraná vinylová podlaha je [5005 DESIGN VINYL EXTREME 0,55 LEPENÝ](5005 DESIGN VINYL EXTREME 0,55 LEPENÝ).
+
+| **Místnost** | **Plocha** | **Rezerva** | **Celkem** | **Obvod** | **Rezerva** | **Celkem** |
+|---|---|---|---|---|---|---|
+| Obývací pokoj + kuchyně | 46 | 15% | 52.9 | 29.48 | 15% | 33.902 |
+| Ložnice západ | 13.94 | 15% | 16.031 | 15.1 | 15% | 17.365 |
+| Chodba | 17.66 | 15% | 20.309 | 17.45 | 15% | 20.0675 |
+| Pracovna | 11.89 | 15% | 13.6735 | 13.9 | 15% | 15.985 |
+| Ložnice jih | 17.1 | 15% | 19.665 | 17.7 | 15% | 20.355 |
+| Celkem | 107 | 15% | 124 | 94 | 20% | 108 |
+
+
 ## Malířské práce
 
 * malování stěn v celém bytě
