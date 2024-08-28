@@ -11,8 +11,8 @@ Následující schéma ilustruje červeně stěny u nichž je třeba provést z�
 Demoliční práce se týkají:
 
 * stěny oddělující kuchyň od obývacího pokoje
-* stěna specifikující velkou koupelnu
-* rozšíření dveří do malé koupelny
+* část stěny specifikující velkou koupelnu
+* rozšíření dveří do velké koupelny
 * zařizovací předměty v koupelnách
 * kuchyňská linka
 * podlahy v celém bytě
