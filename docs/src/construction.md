@@ -11,7 +11,7 @@ Následující schéma ilustruje červeně stěny u nichž je třeba provést z�
 Demoliční práce se týkají:
 
 * stěny oddělující kuchyň od obývacího pokoje
-* část stěny specifikující velkou koupelnu
+* část stěny specifikující velkou koupelnu (část zdi s pojistkami zůstane beze změn) 
 * rozšíření dveří do velké koupelny
 * zařizovací předměty v koupelnách
 * kuchyňská linka
@@ -33,7 +33,6 @@ Potřebné změny v elektrických rozvodech se týkají:
 * přivedení elektřiny k ostrůvku v kuchyni pro sporák a zásuvky
 * přivedení elektřiny v kuchyni pro mikrovlnnou troubu, lednici, mrazák a myčku
 * změna stropního osvětlení v kuchyni a obývacím pokoji
-* příprava pro bodové osvětlení v koupelnách a chodbě
 * přivod elektříny k nové pozici pračky a sušičky
 * nové pozice zásuvek v bytě
 * přívod elektřiny pro elektrické radiátory v koupelnách
