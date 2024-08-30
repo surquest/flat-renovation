@@ -11,8 +11,8 @@ Následující schéma ilustruje červeně stěny u nichž je třeba provést z�
 Demoliční práce se týkají:
 
 * stěny oddělující kuchyň od obývacího pokoje
-* stěna specifikující velkou koupelnu
-* rozšíření dveří do malé koupelny
+* část stěny specifikující velkou koupelnu (část zdi s pojistkami zůstane beze změn) 
+* rozšíření dveří do velké koupelny
 * zařizovací předměty v koupelnách
 * kuchyňská linka
 * podlahy v celém bytě
@@ -24,7 +24,7 @@ Přáli bychom si, aby finální dispozice bytu vypadala následovně, přičem�
 
 ![Nový půdorys](../static/drawings/floor-plan.construction.drawio)
 
-Součásti změny dispozice bytu jsou i nové podhledy (s [distačním stínícím profilem](https://allegro.cz/nabidka/stinovy-profil-distancni-vlozka-pro-strop-s-gk-10x25-13453300518?dd_referrer=https%3A%2F%2Fwww.google.com%2F)) v celém bytě (nebo jen na chodbách a v koupelně) s přípravou pro osvětlení.
+Součásti změny dispozice bytu jsou i nové podhledy s přípravou pro osvětlení.
 
 ## Elektrikářské práce
 
@@ -33,7 +33,6 @@ Potřebné změny v elektrických rozvodech se týkají:
 * přivedení elektřiny k ostrůvku v kuchyni pro sporák a zásuvky
 * přivedení elektřiny v kuchyni pro mikrovlnnou troubu, lednici, mrazák a myčku
 * změna stropního osvětlení v kuchyni a obývacím pokoji
-* příprava pro bodové osvětlení v koupelnách a chodbě
 * přivod elektříny k nové pozici pračky a sušičky
 * nové pozice zásuvek v bytě
 * přívod elektřiny pro elektrické radiátory v koupelnách
