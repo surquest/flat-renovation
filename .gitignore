@@ -11,6 +11,7 @@ __pycache__/
 
 # Mkdocs site
 docs/site/
+docs/src/budgets/
 
 # Distribution / packaging
 .Python
