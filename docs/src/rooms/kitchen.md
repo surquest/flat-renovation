@@ -2,9 +2,9 @@
 
 Kuchyňská linka je součástí obývacího pokoje. Skříňky kuchyňské linky jsou v **bílém matu**. Pracovní deska kuchyňské linky je z **umělého kamene** či jiného odolného povrchu proti teplu ve vzoru s imitací mramoru. Kuchyská linka je složena ze 3 komponent:
 
-* Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlka) a skříní na suché potraviny (přibližně délka cca 2.48m, výška 2.57m, hloubka 0.65m).
+* Stěna se spotřebiči (lednice, mrazák, trouba, mikrovlka) a skříní na suché potraviny (přibližně délka cca 2.48m, výška 2.57m, hloubka 0.90m).
 * Stěna s dřezem, myčkou nádobí, odpadkovým košem a skříněmi na nádobí (přibližně délka cca 3.6m, výška 2.57m, hloubka 0.65m).
-* Ostrůvek s indukční varnou deskou, skříněmi na nádobí, barovou deskou a vestavěnou chladničkou (přibližná délka cca 1.8m, výška 0.90m nebo 0.92m, hloubka 1.2m).
+* Ostrůvek s indukční varnou deskou, skříněmi na nádobí, barovou deskou a vestavěnou chladničkou (přibližná délka cca 2.4m, výška 0.95m a šířka 90).
 
 Rozložení kuchyňské linky je zobrazeno na následujícím obrázku. Tvary označené modře vyžadují přívod vody a napojení na odpad, červené tvary vyžadují přívod elektřiny, žluté tvary značí uložný prostor.
 
@@ -14,10 +14,10 @@ Rozložení kuchyňské linky je zobrazeno na následujícím obrázku. Tvary oz
 
 Stěna se spotřebiči je složena z následujících prvků:
 
-- Modul s lednicí
+- Modul s pračkou a sušičkou
 - Modul s mrazákem
 - Modul s troubou a mikrovlnnou troubou
-- Skříň na suché potraviny
+- Komorovou skříní na tyčový vysavač a čistící prostředky
 
 ![Stěna spotřebiče](../static/drawings/kitchen.wall-appliances.drawio)
 
@@ -25,13 +25,13 @@ Stěna se spotřebiči je složena z následujících prvků:
 
 Stěna s dřezem a myčkou nádobí je složena z následujících prvků:
 
-- Spodní skříňka (60 cm)
+- Modul s lednicí (60 cm)
+- Mudul pro skladování suchých potravin (60 cm)
 - Myčka na nádobí (60 cm)
-- Dřez s odpadkovými koši (1x směsný odpad, 1x kovový odpad, 1x sklo) (90 cm nebo 92 cm)
+- Dřez s odpadkovými koši (1x směsný odpad, 1x kovový odpad, 1x sklo) (90 cm)
     - [dřez](https://eshop-franke.cz/jednodrezy-kulate-drezy/100964-kuchynsky-drez-franke-kubus-2-kng-110-62-matna-cerna-7612985906777.html)
     - [odkapávač](https://eshop-franke.cz/misky-do-drezu/26359-miska-franke-1120066060-pro-drezy-mrg-7612980052851.html)
-- Skříňka na nádobí (30 cm) + šuplík na čistící prostředky (Bublinkovač)
-- 2x velká skříň (viz schéma)
+- Skříňka na nádobí tříděný odpad + šuplík (90 cm)
 
 ![Stěna dřez](../static/drawings/kitchen.wall-watter.drawio)
 
@@ -39,11 +39,9 @@ Stěna s dřezem a myčkou nádobí je složena z následujících prvků:
 
 Ostrůvek je složen z následujících prvků:
 
-- Indukční varná deska
-- Velká skříňka na nádobí (100 cm) 
-- 2x Malá skříňka na nádobí (40 cm)
-- 2x Střední skříňka (60 cm)
-- Dřevěná barová deska
+- Indukční varná deska (60 cm)
+- 3x mudul o šířce 80 cm se 3 šuplíky o výšce (23cm, 30cm a 13cm)
+- Kompozitní barová deska
 
 ![Stěna dřez](../static/drawings/kitchen.island.drawio)
 
