@@ -12,19 +12,19 @@ Následující obrazky slouží jako inspirace pro design koupelny.
 ## Stavební úpravy
 
 * Bourání staré koupelny a likvidace odpadů
-* Připrava elektřiny pro elektrický radiátor (na levé zdi od vchodu do koupelny).
+* Příprava elektřiny pro elektrický radiátor (na levé zdi od vchodu do koupelny).
 * Změna pozice zásuvky vedle umyvadla.
-* Připrava elektřiny pro LED světlo s pohybovým čidlem pod skříňkou s umyvadlem.
-* Vyměna bodového osvětlění 
+* Příprava elektřiny pro LED světlo s pohybovým čidlem pod skříňkou s umyvadlem.
+* Výměna bodového osvětlení
 * Výměna ventilátoru pro odvětrávání vlhkosti (v případě nutnosti i nové podhledy).
 * Příprava podkladu pro dlažbu a obklady (vyrovnání, hydroizolace, atd.).
-* Instalace podomítkovou splachovací nádržku, bidetovou spršku a závěsného WC.
+* Instalace podmítkovou splachovací nádržku, bidetovou spršku a závěsného WC.
 * Dlažba a obklady koupelny (formát 60x60 a 120x60).
 * Instalace umyvadla a sifonu.
 * Vestavba vaničky pro sprchový kout ze stejné dlažby.
 * Instalace sprchového systému a dveří do sprchy.
 * Nainstalovat nové vypínače a zásuvky.
-* Instalace zrdadla a elektřického radiátoru.
+* Instalace zrcadla a elektrického radiátoru.
 
 ## Specifikace
 
